@@ -1,0 +1,18 @@
+Keywords:
+- index: dedicados, venta, decoracion, hogar, soluciones, emprendimiento, mercaderia, delicadeza
+- productos: especieros, dispenser, 3d, aromatizadores, macrame, yute
+- novedades: 3d, innovando, impresoras, productos, calidad, variedad, necesidad
+- nosotros: emprendimiento, proyecto, decoracion, relacion, nosotros, apoyo
+- contacto: opinion, seccion, solicitarnos, presupuestos, consultas, mejoras
+
+Description:
+- index: Tienda online de decoraciones para el hogar a bajo costo
+- productos: Conoce nuestros productos
+- novedades: INVERTIMOS EN IMPRESORAS 3D PARA AUMENTAR LA VARIEDAD Y CALIDAD DE NUESTROS PRODUCTOS
+- nosotros: Mas de nosotros
+- contacto: Sus opiniones valen ¡Muchas gracias!
+
+Se agregaron variables:
+- Extend: se agrego a la pagina index, nosotros y novedades
+- Mixin: se agrego a la pagina contacto y productos 
+

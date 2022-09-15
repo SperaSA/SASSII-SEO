@@ -71,7 +71,8 @@
   border-radius: 10px;
   text-shadow: 1px 1px 2px white; }
   .productos__h1 p {
-    font-size: 30px; }
+    font-size: 30px;
+    font-family: "Encode Sans Semi Condensed", sans-serif; }
 
 .productos .row {
   justify-content: space-evenly;
@@ -130,7 +131,19 @@
     .contacto .section__h1 {
       display: flex;
       justify-content: center;
-      padding: 20px; }
+      padding: 20px;
+      font-size: 60px;
+      font-family: "Encode Sans Semi Condensed", sans-serif;
+      text-align: center;
+      max-width: 60vw;
+      margin: 0 auto;
+      margin-top: 30px;
+      padding: 20px;
+      border-radius: 10px;
+      text-shadow: 1px 1px 2px white; }
+      .contacto .section__h1 p {
+        font-size: 30px;
+        font-family: "Encode Sans Semi Condensed", sans-serif; }
     .contacto .section .form__input {
       width: 100%;
       margin-bottom: 15px;
