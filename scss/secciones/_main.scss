@@ -1,0 +1,8 @@
+.main{
+    max-width: 60vw;
+    @extend %estilo;
+    &__img{
+        border-radius: 40px;
+        padding: 15px;
+    }
+}

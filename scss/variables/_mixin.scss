@@ -1,0 +1,14 @@
+@mixin estilo2 ($size, $sombra){
+    font-size: $size;
+    font-family: $letra;
+    text-align: center;
+    max-width: 60vw;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    text-shadow: $sombra;
+    p{
+        font-size: 30px;
+    }
+}

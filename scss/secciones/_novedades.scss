@@ -1,0 +1,16 @@
+.novedades{
+    max-width: 60vw;
+    @extend %estilo;
+    border-radius: 40px;
+    padding: 50px;
+    &__h1{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+    }
+    .video3d{
+        padding-bottom: 30px;
+        padding-top: 30px;
+
+        }
+    }
